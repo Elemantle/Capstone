@@ -1,0 +1,19 @@
+Cube1	69.27.21.136
+Cube2	69.27.21.137
+Cube3	69.27.21.138
+Cube4	69.27.21.139
+Cube5	69.27.21.140
+Cube6	69.27.21.141
+Cube7 (Streaming)	69.27.21.142
+Switch Dock 1	69.27.21.143
+Switch Dock 2	69.27.21.144
+Switch Dock 3	69.27.21.145
+Switch Dock 4	69.27.21.146
+Streaming Switch	69.27.21.147
+Free	69.27.21.148
+Free	69.27.21.149
+Esports NAS Server	69.27.21.150
+
+Subnet: 255.255.255.0
+Gateway: 69.27.21.1
+DNS: 8.8.8.8
